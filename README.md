@@ -50,4 +50,3 @@ Enter Number you want its Factorial: 5
 - [Output](#output)
 - [Code](#code)
 - [Example](#example)
-```
